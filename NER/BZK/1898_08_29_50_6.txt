@@ -1,0 +1,81 @@
+Anspruchsberechtigter O
+. O
+Kartei O
+- O
+Nr.660 O
+Name O
+: O
+Morasch B-PER
+geborene O
+: O
+Vorname O
+: O
+Karl B-PER
+Familienstand O
+: O
+verh O
+. O
+geboren O
+am O
+: O
+29.8.1898 O
+in O
+Esslingen B-LOC
+N. I-LOC
+wohnhaft O
+in O
+( O
+Ort O
+, O
+Straße O
+, O
+Land O
+): O
+Stuttgart B-LOC
+- I-LOC
+Stammheim I-LOC
+, O
+Charlottenstrasse22 B-LOC
+. O
+Verfolgier O
+. O
+( O
+Nur O
+ausfüllen O
+, O
+wenn O
+Anspruchsberechtigter O
+nicht O
+selbst O
+Verfolgter O
+ist O
+. O
+) O
+Name O
+: O
+geborene O
+: O
+Vorname O
+: O
+geboren O
+am O
+in O
+gest O
+. O
+am O
+: O
+in O
+Namen O
+weiterer O
+Erben O
+oder O
+Hinterbliebener O
+: O
+. O
+Entschädigungsbehörde O B-ORG
+. O I-ORG
+Landesamt O I-ORG
+für O I-ORG
+die O I-ORG
+V O I-ORG
+Stuttgart B-LOC I-ORG

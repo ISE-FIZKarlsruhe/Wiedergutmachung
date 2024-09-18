@@ -1,0 +1,61 @@
+Kartei O
+- O
+Nr O
+. O
+486 O
+046 O
+Anspruchsberechtigter O
+. O
+Name O
+: O
+de B-PER
+la I-PER
+Vorname O
+: O
+geboren O
+am O
+4.10.1870 O
+in O
+Familienstand O
+: O
+verh O
+Wohnort O
+und O
+Straße O
+: O
+Verfolgter O
+. O
+( O
+Nur O
+ausfüllen O
+, O
+wenn O
+Anspruchsberechtigter O
+nicht O
+selbst O
+Verfolgten O
+ist O
+. O
+) O
+Name O
+: O
+Vorname O
+: O
+gestorben O
+am O
+in O
+Gegebenenfalls O
+Namen O
+weiterer O
+Erben O
+: O
+Entschädigungsbehörde O B-ORG
+. O I-ORG
+Köln B-LOC I-ORG
+OFD O B-ORG
+Köln B-LOC I-ORG
+3 O
+. O
+Okt O
+. O
+1957 O

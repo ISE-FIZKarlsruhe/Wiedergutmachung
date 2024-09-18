@@ -1,0 +1,56 @@
+Bayerisches B-LOC B-ORG
+Landesentschädigungsamt O I-ORG
+München B-LOC I-ORG
+2 O
+. O
+Prinz B-LOC
+- I-LOC
+Ludwig I-LOC
+- I-LOC
+Straße I-LOC
+1 O
+- O
+3 O
+49326 O
+VII O
+11527 O
+Bundeskartei O
+Landesrentenbehörde O B-ORG
+NW B-LOC I-ORG
+Düsseldorf I-LOC I-ORG
+17 O
+. O
+NOV O
+1975 O
+Uhrzeit O
+: O
+Anlagen O
+: O
+Antragsteller O
+: O
+Rzezak B-PER
+Izek I-PER
+geboren O
+20 O
+. O
+1 O
+. O
+1920 O
+in O
+Sosnowice B-LOC
+Polen I-LOC
+wohnhaft O
+: O
+2114 O
+- O
+79 O
+St. B-LOC
+Jackson I-LOC
+Heights I-LOC
+. O
+N.Y. B-LOC
+USA I-LOC
+Verfolgter O
+: O
+W. O
+O. O
